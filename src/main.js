@@ -1,3 +1,3 @@
 document.querySelector('#app').innerHTML = `
-  <h1>Déployé avec GitHub Actions</h1>
+  <h1>tracibilité ok</h1>
 `
